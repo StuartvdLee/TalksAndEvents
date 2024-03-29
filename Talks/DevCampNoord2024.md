@@ -19,6 +19,6 @@ These are the references I used in my talk:
 
 - The Office
 - [Azure AI Studio](https://ai.azure.com)
-- [Embedding models "definition"](https://openai.com/blog/new-and-improved-embedding-model)
+- [Embedding models "definition"](https://openai.com/blog/new-and-improved-embedding-model#:~:text=Embeddings%20are%20numerical%20representations%20of%20concepts%20converted%20to%20number%20sequences%2C%20which%20make%20it%20easy%20for%20computers%20to%20understand%20the%20relationships%20between%20those%20concepts.)
 
 Thank you for listening to my talk and checking out the resources.
