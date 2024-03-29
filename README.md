@@ -1,6 +1,6 @@
 # Stuart's talks and events
 
-Hello! Thanks for having a look here.
+Hello, and thanks for having a look here!
 
 This is a list of resources and links from Stuart's talks. You'll find the talk and event under the ["Talks" folder](https://github.com/stuartvdlee/TalksandEvents/tree/main/Talks). Click the appropriate markdown file and check out all the resources.
 
