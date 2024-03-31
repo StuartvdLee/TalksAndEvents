@@ -1,6 +1,6 @@
 # devCampNoord 2024 - The Office Copilot
 
-This is a talk I gave at [devCampNoord 2024](https://devnetnoord.nl/). The talk was in Dutch.
+This is a talk I gave at [devCampNoord 2024](https://devnetnoord.nl/#officecopilot). The talk was in Dutch.
 
 ## Talk Title
 
