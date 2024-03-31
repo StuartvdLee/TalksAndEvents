@@ -25,4 +25,4 @@ These are the references I used in my talk:
 - [Tokens](https://openai.com/pricing#:~:text=You%20can%20think%20of%20tokens%20as%20pieces%20of%20words%2C%20where%201%2C000%20tokens%20is%20about%20750%20words.)
 - [Slide deck](devCampNoord2024.pdf)
 
-Thank you for listening to my talk and checking out the resources.
+Thank you for listening to my talk and checking out the resources!
