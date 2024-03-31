@@ -23,6 +23,7 @@ These are the references I used in my talk:
 - [Standard deployment model availability](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models#standard-deployment-model-availability)
 - [Embedding models "definition"](https://openai.com/blog/new-and-improved-embedding-model#:~:text=Embeddings%20are%20numerical%20representations%20of%20concepts%20converted%20to%20number%20sequences%2C%20which%20make%20it%20easy%20for%20computers%20to%20understand%20the%20relationships%20between%20those%20concepts.)
 - [Tokens](https://openai.com/pricing#:~:text=You%20can%20think%20of%20tokens%20as%20pieces%20of%20words%2C%20where%201%2C000%20tokens%20is%20about%20750%20words.)
+- [Contoso Chat on GitHub](https://github.com/Azure-Samples/contoso-chat)
 - [Slide deck](devCampNoord2024.pdf)
 
 Thank you for listening to my talk and checking out the resources!
