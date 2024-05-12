@@ -1,5 +1,7 @@
 # AI Community Day - Building a Copilot for Dunder Mifflin
 
+![van_der_Lee_-_Building_a_Copilot_for_Dunder_Mifflin_672632](https://github.com/StuartvdLee/TalksAndEvents/assets/15244319/258ed116-5e19-4be0-b363-a5d1a8f304b1)
+
 This is a talk I gave at [AI Community Day](https://www.aicommunityday.nl/). The talk was in English.
 
 ## Talk Title
