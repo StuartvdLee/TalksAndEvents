@@ -8,5 +8,6 @@ This is a list of resources and links from Stuart's talks. You'll find the talk 
 
 <p align="left">
 <a href="https://twitter.com/StuartvdLee" target="blank"><img align="center" src="https://github.com/StuartvdLee/StuartvdLee/blob/main/Socials/XLogo.jpeg" alt="" height="30" /></a> 
+<a href="https://bsky.app/profile/stuartvdlee.bsky.social" target="blank"><img align="center" src="https://github.com/StuartvdLee/StuartvdLee/blob/main/Socials/BlueskyLogo.png" alt="" height="30" /></a> 
 <a href="https://www.linkedin.com/in/stuartvdlee" target="blank"><img align="center" src="https://github.com/StuartvdLee/StuartvdLee/blob/main/Socials/LinkedInLogo.png" alt="" height="30" /></a>
 </p>
