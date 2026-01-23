@@ -18,7 +18,7 @@ In this session we'll get our teeth stuck in these and many more questions and w
 
 These are the links to resources and references I mentioned in my talk:
 
-- The Office
+- Jurassic Park
 - [jurassic-park](https://github.com/StuartvdLee/jurassic-park)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 - [Model Context Protocol C# SDK](https://github.com/modelcontextprotocol/csharp-sdk)
