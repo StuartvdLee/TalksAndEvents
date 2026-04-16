@@ -1,6 +1,6 @@
 # devCampNoord 2026 - Building your own MCP server
 
-This is a talk I gave at [devCampNoord 2026](https://devnetnoord.nl/). The talk was in English.
+This is a talk I gave at [devCampNoord 2026](https://devnetnoord.nl/). The talk was in Dutch.
 
 ## Talk Title
 
