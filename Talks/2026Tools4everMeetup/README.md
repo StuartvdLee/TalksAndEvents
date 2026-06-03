@@ -19,7 +19,7 @@ In deze sessie bouwen we stap voor stap een MCP server met de MCP C# SDK. We lat
 These are the links to resources and references I mentioned in my talk:
 
 - The Office
-- [DunderMifflin](https://github.com/StuartvdLee/DunderMifflin/tree/azurefest2025)
+- [DunderMifflin](https://github.com/StuartvdLee/DunderMifflin)
 - [Model Context Protocol](https://modelcontextprotocol.io/)
 - [Model Context Protocol C# SDK](https://github.com/modelcontextprotocol/csharp-sdk)
 - [Your API is not an MCP](https://www.youtube.com/watch?v=eeOANluSqAE)
