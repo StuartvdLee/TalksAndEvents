@@ -24,6 +24,6 @@ These are the links to resources and references I mentioned in my talk:
 - [Model Context Protocol C# SDK](https://github.com/modelcontextprotocol/csharp-sdk)
 - [Getting Started with MCP (Model Context Protocol)](https://www.youtube.com/watch?v=DpyjAKmNwpI)
 - [Connect to Model Context Protocol servers](https://learn.microsoft.com/en-us/azure/ai-foundry/agents/how-to/tools/model-context-protocol)
-- [Slide deck](.pdf)
+- [Slide deck](2026MicrosoftBuild.pdf)
 
 Thank you for listening to my talk and checking out the resources!
